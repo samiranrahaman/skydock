@@ -1,0 +1,17 @@
+{
+  "name": "file-uploader",
+  "version": "1.0.0",
+  "description": "An AJAX file uploader using JS and NodeJS",
+  "main": "app.js",
+"scripts": {
+  "start": "node app.js"
+},
+  "author": "SAMIRAN",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "formidable": "^1.0.17",
+	"mongoose":"^4.8.2"
+  }
+	
+}
